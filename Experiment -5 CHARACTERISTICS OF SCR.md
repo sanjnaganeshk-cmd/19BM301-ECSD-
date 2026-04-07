@@ -10,12 +10,16 @@ To study and plot the V‐I characteristics of SCR
 
 # Circuit Diagram  Model Graph:
 
+![WhatsApp Image 2026-04-07 at 4 36 50 PM](https://github.com/user-attachments/assets/a5a555f4-9c26-452e-8e5a-71abeab4ef02)
 
 # Tabular Column & Calculation:
+![WhatsApp Image 2026-04-07 at 4 36 50 PM (1)](https://github.com/user-attachments/assets/0918b194-dd76-498f-b8ff-98af46e0b9fd)
 
 
 # Graph:
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/7cd1cd72-961e-4369-892e-ad3393ed9aed" />
 
 
 # Result:
+![WhatsApp Image 2026-04-07 at 4 36 50 PM (1)](https://github.com/user-attachments/assets/0918b194-dd76-498f-b8ff-98af46e0b9fd)
 
