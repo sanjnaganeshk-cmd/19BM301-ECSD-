@@ -34,13 +34,16 @@ Reverse Resistance RR = ΔVR / ΔIR (Ω)
 
 
 # TABULAR COLUMN & CALCULATION:
+![WhatsApp Image 2026-04-07 at 4 36 49 PM](https://github.com/user-attachments/assets/0782b0cb-659b-41ef-bc3d-910ac8cfb152)
 
 # MODEL GRAPH:
 <img width="575" height="336" alt="image" src="https://github.com/user-attachments/assets/9d240373-37b1-4ef2-be60-6005ff1770be" />
 
 # GRAPH:
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/df3b05f0-b3ff-4d80-8c8c-fbfe5274713a" />
 
 # RESULT:
+![WhatsApp Image 2026-04-07 at 4 36 49 PM](https://github.com/user-attachments/assets/295da899-3b2b-4236-9ef6-6057938e5074)
 
 
 
